@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Bruna Valério ✌️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-valerio/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/bruna-valerio/)
 
 
 ![Bruna GitHub stats](https://github-readme-stats.vercel.app/api?username=bruna23&show_icons=true&theme=onedark)
