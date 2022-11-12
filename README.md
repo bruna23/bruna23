@@ -1,4 +1,10 @@
-### Olá! Eu sou a Bruna Valério ❤️
+
+<div align="start">
+  
+ ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70C64&center=true&width=435&lines=Ol%C3%A1+sou+a+Bruna+Val%C3%A9rio)
+
+
+</div>
 
 <br/>
 
